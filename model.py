@@ -8,7 +8,7 @@ import pickle
 
 ## read the file
 
-df=pd.read_csv(r'C:\Users\anupd\OneDrive\Desktop\capital-bike-share\hour.csv')
+df=pd.read_csv('hour.csv')
 
 
 ## preprocess
