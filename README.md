@@ -8,7 +8,7 @@
 
 ## Introduction 
 
-This project focuses on the bike share business of the famous bike chare company [Capital Bike Share](https://www.capitalbikeshare.com/). The main goal here is to work with some previous data, analyse it following time series prediction and finally publish it using [Heroku](https://bike-share-count.herokuapp.com/predict) based on a machine learning model. 
+This project focuses on the bike share business of the famous bike chare company [Capital Bike Share](https://www.capitalbikeshare.com/). The main goal here is to work with some previous data, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model. 
 
 
 ## End Note :
@@ -17,7 +17,7 @@ This project focuses on the bike share business of the famous bike chare company
 
 
 
-Please follow the below links of the author_
+Please follow the social media links of the author_
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
