@@ -15,8 +15,6 @@ This project focuses on the bike share business of the famous bike chare company
 
 
 
-
-
 Please follow the social media links of the author_
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
