@@ -31,8 +31,13 @@ This part we wrangle the raw data to an excecutable format. Although Capital Bik
 
 ## Basic Exploratory Analysis:
 
-This part of the project we processed the data to get couple of insights such as 1. Daily total users based on the seasonality. 2.
-Weekly bike distribution based on temmprature and working day. 3. Monthly user  distributation. At the end there is monthly distribution of total users based on the data.
+This part of the project focuses mainly on processing of the data to get insights such as:
+ 1. Daily total users based on the seasonality. 
+ 2. Weekly bike distribution based on temmprature and working day. 
+ 3. Monthly user  distributation. 
+ 4. monthly distribution of total users based on the data. 
+ 5. User count based on temparature. 
+ 6. Weather dependency on bike demand.
 
 
 
