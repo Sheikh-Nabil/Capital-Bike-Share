@@ -22,6 +22,20 @@ This project focuses on the bike share business of the famous bike share company
 4,500 bikes and 500+ stations across 7 jurisdictions: Washington, DC.; Arlington, VA; Alexandria, VA; Montgomery, MD; Prince George's County, MD; Fairfax County, VA; and the City of Falls Church, VA. Designed for quick trips with convenience in mind, it’s a fun and affordable way to get around. 
 The main objectives of this project is to work with  previous data from capital bike share, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model.
 
+## Used Tools:
+
+![](https://img.shields.io/badge/Wrangling-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Visualization-SNS_Matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/ML-AdaBoost-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Timeseries-FB_Prophet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Deployment-Flask_Heroku-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
 ## The data:
 All the data used in this project are included in the respective folders. The data was collected from the capital bike share [website](https://www.capitalbikeshare.com/system-data) where they publish their bike ride data. There are data from two different timeframe 2011-12, and 2018-19-20. Al the used data included in this project were in .json format and transformed into .csv format for further analysis.  
 
