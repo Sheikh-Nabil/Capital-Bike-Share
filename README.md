@@ -22,6 +22,11 @@ This project focuses on the bike share business of the famous bike share company
 4,500 bikes and 500+ stations across 7 jurisdictions: Washington, DC.; Arlington, VA; Alexandria, VA; Montgomery, MD; Prince George's County, MD; Fairfax County, VA; and the City of Falls Church, VA. Designed for quick trips with convenience in mind, it’s a fun and affordable way to get around. 
 The main objectives of this project is to work with  previous data from capital bike share, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model.
 
+
+<p align="left">
+<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
+</details>
+
 ## Used Tools:
 
 ![](https://img.shields.io/badge/Wrangling-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
