@@ -39,6 +39,7 @@ This part of the project focuses mainly on processing of the data to get insight
  5. User count based on temparature. 
  6. Weather dependency on bike demand.
 
+analysis credit for [Davide Della Valle](https://github.com/davidellavalle). 
 
 
 ## Facebook Prophet:
