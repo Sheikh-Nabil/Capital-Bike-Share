@@ -59,7 +59,7 @@ This part of the project focuses mainly on processing of the data to get insight
  5. User count based on temparature. 
  6. Weather dependency on bike demand.
 
-analysis credit for [Davide Della Valle](https://github.com/davidellavalle). 
+ 
 
 
 ## Facebook Prophet:
@@ -83,6 +83,8 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 [![Flask App Deployment Tutorial](http://img.youtube.com/vi/n8yXd4tZylg/0.jpg)](http://www.youtube.com/watch?v=n8yXd4tZylg "Flask App Deployment Tutorial")
 
 Tutorial Credit [Sekhar Biswas](https://github.com/shekharbiswas).
+
+Timeseries analysis credit for [Davide Della Valle](https://github.com/davidellavalle).
 
 
 
