@@ -10,8 +10,8 @@
 2. [The Data](#The-Data)
 3. [2011-12 Analysis](#2011-12-Analysis)
 4. [Facebook Prophet](#facebook-Prophet)
-
-
+5. [Flask App](#Flask-App)
+6. [End Note](#End-Note)
 
 
 ## Introduction 
@@ -35,7 +35,12 @@ According to the official [website](https://facebook.github.io/prophet/), Prophe
 
 
 
-## End Note :
+## Flask App: 
+
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+
+
+## End Note:
 
 Please follow the social media links of the author_
 
