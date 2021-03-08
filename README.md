@@ -10,10 +10,22 @@
 
 This project focuses on the bike share business of the famous bike chare company [Capital Bike Share](https://www.capitalbikeshare.com/). The main goal here is to work with some previous data, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model. 
 
+## The data:
+All the data used in this project are included in the respective folders. The data was collected from the capital bike share website where they publish their bike ride data with every one. There are data from two different timeframe 2011-12, and 2018-19-20. Al the data included in this project are in .csv format. 
+
+## 2011-12 Analysis:
+
+This part of the project we processed the data to get couple of insights such as 1. Daily total users based on the seasonality. 2.
+Weekly bike distribution based on temmprature. 3. Hourly wise monthly distributation. At the end there is monthly distribution of total users based on the data.
+
+
+
+
+
+
+
 
 ## End Note :
-
-
 
 Please follow the social media links of the author_
 
