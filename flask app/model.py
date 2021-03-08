@@ -8,7 +8,7 @@ import pickle
 
 ## read the file
 
-df=pd.read_csv('newdata.csv')
+df=pd.read_csv(r'C:\Users\Sheikh Nabil\Anaconda\Desktop\capital-bike-share\flask app\final_18_19_20.csv')
 
 
 ## preprocess

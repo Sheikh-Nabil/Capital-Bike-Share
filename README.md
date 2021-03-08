@@ -19,20 +19,20 @@
 
 ## Introduction 
 
-This project focuses on the bike share business of the famous bike chare company [Capital Bike Share](https://www.capitalbikeshare.com/). The main goal here is to work with some previous data, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model. 
+This project focuses on the bike share business of the famous bike share company [Capital Bike Share](https://www.capitalbikeshare.com/). The main goal here is to work with some previous data, analyse it following time series prediction and finally publish it using Heroku based on a machine learning model. 
 
 ## The data:
-All the data used in this project are included in the respective folders. The data was collected from the capital bike share website where they publish their bike ride data with every one. There are data from two different timeframe 2011-12, and 2018-19-20. Al the data included in this project are in .csv format. 
+All the data used in this project are included in the respective folders. The data was collected from the capital bike share [website](https://www.capitalbikeshare.com/system-data) where they publish their bike ride data. There are data from two different timeframe 2011-12, and 2018-19-20. Al the used data included in this project were in .json format and transformed into .csv format for further analysis.  
 
-## Data Processing:
+## Data Wrangling:
 
-This part we process the raw data to an excecutable format. Although Capital Bike Share provides very well structured data compared to other data sources but to make the data useful for using in exploratory analysis and machine learning model we preapared the data as it needed to be.  
+This part we wrangle the raw data to an excecutable format. Although Capital Bike Share provides very well structured data compared to other data sources but to make the data useful for using in exploratory analysis and machine learning model, we preapared the data as it needed to be. Data wrangling, sometimes referred to as data munging, is the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. There is a silver lining between data processing and of data wrangling which we used.Please refer [here](https://en.wikipedia.org/wiki/Data_wrangling) to have a bit understanding of our used process. 
 
 
 ## Basic Exploratory Analysis:
 
 This part of the project we processed the data to get couple of insights such as 1. Daily total users based on the seasonality. 2.
-Weekly bike distribution based on temmprature. 3. Hourly wise monthly distributation. At the end there is monthly distribution of total users based on the data.
+Weekly bike distribution based on temmprature and working day. 3. Monthly user  distributation. At the end there is monthly distribution of total users based on the data.
 
 
 
