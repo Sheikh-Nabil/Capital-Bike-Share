@@ -59,7 +59,7 @@ Useful resources for further development-
 
 ## Flask App: 
 
-Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. The app is launched on [Heroku](https://devcenter.heroku.com/) which can be accessed [here](https://bike-share-count.herokuapp.com).
 
 
 ## End Note:
