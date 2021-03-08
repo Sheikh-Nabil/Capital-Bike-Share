@@ -80,6 +80,8 @@ Useful resources for further development-
 
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. The app is launched on [Heroku](https://devcenter.heroku.com/) which can be accessed [here](https://bike-share-count.herokuapp.com).
 
+
+
 [![Flask App Deployment Tutorial](http://img.youtube.com/vi/n8yXd4tZylg/0.jpg)](http://www.youtube.com/watch?v=n8yXd4tZylg "Flask App Deployment Tutorial")
 
 Tutorial Credit [Sekhar Biswas](https://github.com/shekharbiswas).
