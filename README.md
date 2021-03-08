@@ -5,10 +5,12 @@
   <img width="500" height="300" src="https://mobilitylab.org/wp-content/uploads/2016/06/Penn-CaBi-Elvert-Barnes.jpg">
 </p>
 
+
+
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [The Data](#The-Data)
-3. [2011-12 Analysis](#2011-12-Analysis)
+3. [Basic Exploratory Analysis](#Basic-Exploratory-Analysis)
 4. [Facebook Prophet](#facebook-Prophet)
 5. [Flask App](#Flask-App)
 6. [End Note](#End-Note)
@@ -21,7 +23,7 @@ This project focuses on the bike share business of the famous bike chare company
 ## The data:
 All the data used in this project are included in the respective folders. The data was collected from the capital bike share website where they publish their bike ride data with every one. There are data from two different timeframe 2011-12, and 2018-19-20. Al the data included in this project are in .csv format. 
 
-## 2011-12 Analysis:
+## Basic Exploratory Analysis:
 
 This part of the project we processed the data to get couple of insights such as 1. Daily total users based on the seasonality. 2.
 Weekly bike distribution based on temmprature. 3. Hourly wise monthly distributation. At the end there is monthly distribution of total users based on the data.
