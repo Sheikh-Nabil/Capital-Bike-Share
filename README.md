@@ -10,10 +10,11 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [The Data](#The-Data)
-3. [Basic Exploratory Analysis](#Basic-Exploratory-Analysis)
-4. [Facebook Prophet](#facebook-Prophet)
-5. [Flask App](#Flask-App)
-6. [End Note](#End-Note)
+3. [Data processing](Data-Processinng)
+4. [Basic Exploratory Analysis](#Basic-Exploratory-Analysis)
+5. [Facebook Prophet](#facebook-Prophet)
+6. [Flask App](#Flask-App)
+7. [End Note](#End-Note)
 
 
 ## Introduction 
@@ -22,6 +23,11 @@ This project focuses on the bike share business of the famous bike chare company
 
 ## The data:
 All the data used in this project are included in the respective folders. The data was collected from the capital bike share website where they publish their bike ride data with every one. There are data from two different timeframe 2011-12, and 2018-19-20. Al the data included in this project are in .csv format. 
+
+## Data Processing:
+
+This part we process the raw data to an excecutable format. Although Capital Bike Share provides very well structured data compared to other data sources but to make the data useful for using in exploratory analysis and machine learning model we preapared the data as it needed to be.  
+
 
 ## Basic Exploratory Analysis:
 
