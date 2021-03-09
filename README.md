@@ -59,10 +59,9 @@ This part of the project focuses mainly on processing of the data to get insight
  5. User count based on temparature. 
  6. Weather dependency on bike demand.
 
- 
 
 
-## Facebook Prophet:
+## Facebook Prophet: 
 
 <p align="center">
   <img width="300" height="100" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/tumblr_inline_omh3tnv5zk1r1x9ql_500.png">
