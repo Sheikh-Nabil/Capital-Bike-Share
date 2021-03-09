@@ -85,7 +85,7 @@ Useful resources for further development-
   <img width="300" height="100" src="https://www.codeacademyberlin.com/static/ecdc3d3b1090c073cbccd8d542bc50e7/flask.svg">
 </p>
 
-Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. The app is launched on [Heroku](https://devcenter.heroku.com/) which can be accessed [here](https://bike-share-count.herokuapp.com).
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.In this stage, we made an app with Flask to get a prediction of rented bikes per hour by using AdaBoostRegressor as regression. It takes an input of weekday, hour, month, member type and is a holiday or not, and gives a prediction of bike usage within the hour. The app is launched on [Heroku](https://devcenter.heroku.com/) which can be accessed [here](https://bike-share-count.herokuapp.com).
 
 
 
