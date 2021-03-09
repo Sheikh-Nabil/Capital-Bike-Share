@@ -64,6 +64,10 @@ This part of the project focuses mainly on processing of the data to get insight
 
 ## Facebook Prophet:
 
+<p align="center">
+  <img width="300" height="100" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/tumblr_inline_omh3tnv5zk1r1x9ql_500.png">
+</p>
+
 According to the official [website](https://facebook.github.io/prophet/), Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
 Useful resources for further development- 
@@ -77,6 +81,10 @@ Useful resources for further development-
 
 
 ## Flask App: 
+
+<p align="center">
+  <img width="300" height="100" src="https://www.codeacademyberlin.com/static/ecdc3d3b1090c073cbccd8d542bc50e7/flask.svg">
+</p>
 
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. The app is launched on [Heroku](https://devcenter.heroku.com/) which can be accessed [here](https://bike-share-count.herokuapp.com).
 
